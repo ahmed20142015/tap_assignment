@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "name": "Strawberry Cake",
+      "desc": "Strawberry cake with cream",
+      "price": "12 K.D"
+    },
+    {
+      "productId": 2,
+      "name": "Butter Cake",
+      "desc": "Butter cake with cream",
+      "price": "14 K.D"
+    },
+    {
+      "productId": 3,
+      "name": "Pound  Cake",
+      "desc": "Pound  cake with cream",
+      "price": "15 K.D"
+    },
+    {
+      "productId": 4,
+      "name": "Sponge  Cake",
+      "desc": "Sponge  cake with cream",
+      "price": "20 K.D"
+    },
+    {
+      "productId": 5,
+      "name": "Genoise Cake",
+      "desc": "Genoise cake with cream",
+      "price": "30 K.D"
+    }
+  ]
+}
